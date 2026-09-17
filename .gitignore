@@ -1,0 +1,9 @@
+.ssh/
+*.pem
+*.key
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
